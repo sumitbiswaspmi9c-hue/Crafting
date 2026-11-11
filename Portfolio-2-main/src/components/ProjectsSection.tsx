@@ -21,7 +21,7 @@ const projects: Project[] = [
       'A personal portfolio crafted to showcase skills, projects, and creative work — built for speed, smooth animations, and a bold first impression.',
     image: '/portfolio/jishnu-portfolio.png',
     tags: ['NEXT.JS', 'TYPESCRIPT', 'FRAMER MOTION'],
-    liveUrl: 'https://jishnu-mondal-portfolio.vercel.app/',
+    liveUrl: '',
   },
   {
     id: 'mechx-ai',
@@ -30,7 +30,7 @@ const projects: Project[] = [
       'A bold design studio website built to showcase creative services, brand identity, and digital experiences — crafted with precision and visual impact.',
     image: '/portfolio/echo-studio.png',
     tags: ['NEXT.JS', 'TYPESCRIPT', 'GSAP'],
-    liveUrl: 'https://echo-design-studio-ex.vercel.app/',
+    liveUrl: 'https://hyper-design-studio.vercel.app/',
   },
   {
     id: 'zenith-solar',

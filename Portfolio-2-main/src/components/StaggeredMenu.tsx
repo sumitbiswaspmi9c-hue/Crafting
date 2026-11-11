@@ -350,7 +350,7 @@ export const StaggeredMenu: React.FC<StaggeredMenuProps> = ({
               className="text-lg sm:text-xl md:text-2xl font-bold tracking-[0.22em] text-white uppercase leading-none"
               style={{ fontFamily: "'Poppins', system-ui, sans-serif" }}
             >
-              ECHO
+              HYPER
             </span>
 
             <span className="w-[1px] h-4.5 bg-white/30 group-hover:bg-white/50 transition-colors" />
