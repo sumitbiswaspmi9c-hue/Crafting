@@ -61,8 +61,8 @@ const footerLinks: FooterSection[] = [
   {
     label: 'Work',
     links: [
-      { title: 'Portfolio Website', href: 'https://jishnu-mondal-portfolio.vercel.app/', icon: VercelSVG },
-      { title: 'Design Studio',     href: 'https://echo-design-studio-ex.vercel.app/', icon: VercelSVG },
+      { title: 'Portfolio Website', href: '', icon: VercelSVG },
+      { title: 'Design Studio',     href: 'https://hyper-design-studio.vercel.app/', icon: VercelSVG },
       { title: 'Cafe Management',   href: 'https://mochaandmiso.web.app/', icon: GlobeSVG },
     ],
   },
